@@ -19,13 +19,13 @@ export default React.createClass({
 
     var menu = (
       <Menu>
-        <Link to="page">{{myapp}}</Link>
+        <Link to="page">{{reappName}}</Link>
       </Menu>
     );
 
     return (
       <LayoutLeftNav
-        title="{{myapp}}"
+        title="{{reappName}}"
         side={menu}
         handle={button}>
         <RouteHandler {...this.props} />

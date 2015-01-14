@@ -11,7 +11,7 @@ export default React.createClass({
   render() {
     return (
       <NestedViewList {...this.routedViewListProps()}>
-        <View title={[this.props.handle, 'Kitchen Sink']}>
+        <View title={[this.props.handle, '{{reappName}}']}>
           <p>Hello, World!</p>
         </View>
 

@@ -1,6 +1,6 @@
 {
-  "author": "{{myname}}",
-  "name": "{{myapp}}",
+  "author": "Your Name Here",
+  "name": "{{reappName}}",
   "description": "",
   "version": "1.0.0",
   "main": "./app/app.js",
