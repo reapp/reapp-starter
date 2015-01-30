@@ -1,9 +1,11 @@
-import Reapp from 'reapp-platform';
+// needed for now, see issue #1 in reapp-ui
+import 'reapp-ui';
+
+// import our theme
+import './theme/theme';
+
+// routes & run
 import Router from 'reapp-routes/react-router';
 import Routes from './routes';
 
-// theme
-require('./theme/theme');
-
-// run app
 Router(Routes);
