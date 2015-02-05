@@ -12,7 +12,7 @@
   "dependencies": {
     "react": "^0.13.0-beta.1",
     "reapp-platform": "^1.0.0",
-    "reapp-ui": "^0.8.0",
+    "reapp-ui": "^0.8.9",
     "reapp-routes": "^0.9.0",
     "react-router": "git+https://github.com/reapp/react-router#0cb83ddd3c",
     "reapp-request": "^0.2.0",
