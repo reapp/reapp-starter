@@ -14,7 +14,7 @@
     "reapp-platform": "^1.0.0",
     "reapp-ui": "^0.8.0",
     "reapp-routes": "^0.9.0",
-    "react-router": "git+https://github.com/reapp/react-router#376c1c94",
+    "react-router": "git+https://github.com/reapp/react-router#214a2e6f165",
     "reapp-request": "^0.2.0",
     "reapp-component": "^1.0.0"
   }
