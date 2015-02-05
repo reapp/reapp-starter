@@ -19,7 +19,7 @@ export default React.createClass({
 
     var menu = (
       <Menu>
-        <Link to="page">{{reappName}}</Link>
+        <Link to="sub">{{reappName}}</Link>
       </Menu>
     );
 

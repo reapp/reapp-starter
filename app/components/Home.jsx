@@ -1,5 +1,5 @@
 import React from 'react';
-import { RoutedViewListMixin } from 'reapp-platform';
+import { RoutedViewListMixin } from 'reapp-routes/react-router';
 import NestedViewList from 'reapp-ui/views/NestedViewList';
 import View from 'reapp-ui/views/View';
 
