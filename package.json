@@ -1,6 +1,7 @@
 {
   "author": "Your Name Here",
   "name": "{{reappName}}",
+  "repository": "",
   "description": "",
   "version": "1.0.0",
   "main": "./app/app.js",
