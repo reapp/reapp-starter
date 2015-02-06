@@ -15,7 +15,7 @@ export default React.createClass({
           <p>Hello, World!</p>
         </View>
 
-        {this.routedSubRoute()}
+        {this.childRouteHandler()}
       </NestedViewList>
     );
   }
