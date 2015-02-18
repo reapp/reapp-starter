@@ -8,7 +8,7 @@ import BackButton from 'reapp-ui/components/buttons/BackButton';
 export default React.createClass({
   render() {
     var backButton = (
-      <BackButton onClick={() => window.history.back()} />
+      <BackButton onTap={() => window.history.back()} />
     );
 
     return (

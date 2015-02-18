@@ -1,5 +1,5 @@
 module.exports = {
   self: {
-    borderBottom: 'none'
+    // can override reapp-ui/themes/ios/styles/TitleeBar.js
   }
 };

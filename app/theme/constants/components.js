@@ -1,3 +1,3 @@
 module.exports = {
-  buttonColorTitleBar: '#fff'
+  // can override reapp-ui/themes/ios/constants/components.js
 };

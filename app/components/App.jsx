@@ -11,7 +11,8 @@ export default React.createClass({
         iconProps={{
           file: require('reapp-ui/assets/icons/hamburger.svg'),
           stroke: 1,
-          size: 24
+          size: 24,
+          animations: false
         }}
         chromeless />
     );
