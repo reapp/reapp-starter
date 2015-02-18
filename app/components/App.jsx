@@ -9,7 +9,7 @@ export default React.createClass({
     var button = (
       <Button
         iconProps={{
-          name: 'hamburger',
+          file: require('reapp-ui/assets/icons/hamburger.svg'),
           stroke: 1,
           size: 24
         }}
